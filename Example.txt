@@ -1,0 +1,41 @@
+python SHA256.py
+Enter string: 1
+Output: 6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b
+
+Enter string: 脱口秀
+Output: 1c24d9d6ffe911ec0369dc7b22f7edd6655c48e42699dd25c9a285730acb2813
+
+Enter string: 棍母
+Output: 42c9f9955b3161cb4475dafe41d7061ac72b694b3ee8d09c64e397fbd8802f88
+
+Enter string: 曼德勃罗集
+Output: 5a6f429726885ab26e3f5dfceee7cb51d11486c0847394ba63348a30ad9057d4
+
+Enter string:
+Output: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Enter string: Fractal
+Output: f0145532e35a2edbff2bec96b63bb8393fd46ff76d721e6a4244cf5b718007b7
+
+Enter string: 分形
+Output: e511afeb292ea47b098bafc5e424c79c803af67102f1c83980300674c766a048
+
+Enter string: 阿米诺斯
+Output: 697c154a0ec3e5bde31fbd546c2760d90ff9ffaad82c9461ab0ffacba08c2f27
+
+Enter string: 茱莉亚集
+Output: bb58481d037119f7ff668b82d746ffc7c4470d032a30f9a2b9b7592cb1ef8664
+
+Enter string: 燃烧船分形
+Output: a0fe9fb83560cfdc93dec4ccee04dfac4c530372dec5047bc34e479a85216441
+
+Enter string: 烈焰人
+Output: fc12faafa0c9a8ad161b00e68adcbebfcef53455243ee494069f0e813f57d672
+
+Enter string: 旋风人
+Output: 518c63508d50cc515716408c9ef71e10bdda6a514e1b98720e05d6bacb583de2
+
+Enter string: 寒冰人
+Output: abcb5b7b607043b685f0a128f6eeeb5d57f799f6110ac2296ad50daadb2882f3
+
+Enter string:
