@@ -1,2 +1,2 @@
 # SHA256-Python-
-用SHA-256
+用Python实现SHA-256
