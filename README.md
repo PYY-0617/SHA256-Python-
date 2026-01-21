@@ -1,7 +1,6 @@
-# SHA256(![](https://img.itch.zone/aW1hZ2UvOTM1NzMzLzUzMTU0MzEucG5n/original/ay7ju0.png))
+# SHA256(![](https://raw.githubusercontent.com/PYY-0617/images/refs/heads/main/python.png))
 用Python实现SHA-256
 
-## 
 ## 示例
 ```
 python SHA256.py
