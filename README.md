@@ -3,7 +3,7 @@
 
 ## 
 ## 示例
-
+  python SHA256.py
   Enter string: 因缘和合
   Output: 533e84b2c8826163694751ddf3eadb0e22486e2d492d6763cd90d68c0e681179
   
