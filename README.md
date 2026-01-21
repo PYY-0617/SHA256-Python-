@@ -1,4 +1,4 @@
-# SHA256(![](https://raw.githubusercontent.com/PYY-0617/images/refs/heads/main/python.png))
+# SHA256(Python)
 用Python实现SHA-256
 
 ## 示例
