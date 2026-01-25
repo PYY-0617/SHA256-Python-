@@ -1,5 +1,5 @@
 # SHA256(Python)
-用Python实现SHA-256
+如果你想停止运行，可以按Ctrl+C（在按Ctrl的同时按下C键）
 
 ## 示例
 ```
