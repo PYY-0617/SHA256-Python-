@@ -1,14 +1,5 @@
 import base64
 
-def deduct_tax(h):
-    mapping = {
-        '0': '♣♣', '1': '♣♦', '2': '♣♥', '3': '♣♠',
-        '4': '♦♣', '5': '♦♦', '6': '♦♥', '7': '♦♠',
-        '8': '♥♣', '9': '♥♦', 'a': '♥♥', 'b': '♥♠',
-        'c': '♠♣', 'd': '♠♦', 'e': '♠♥', 'f': '♠♠',
-    }
-    return ''.join(mapping.get(c, c) for c in h)
-
 class SHA256:
     def __init__(self):
         # 初始化常量（K值）和初始哈希值（H值）
@@ -135,4 +126,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
